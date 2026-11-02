@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "123",
+    "name": "System Administrator",
+    "role": "admin",
+    "email": "admin@clinic.com",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "username": "user",
+    "password": "123",
+    "name": "Demo User",
+    "role": "user",
+    "email": "user@clinic.com",
+    "createdAt": "2026-01-05T00:00:00.000Z"
+  }
+]

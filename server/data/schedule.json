@@ -1,0 +1,15 @@
+{
+  "workingDays": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "openingTime": "08:32",
+  "closingTime": "18:00",
+  "slotDuration": 45,
+  "maxAppointmentsPerSlot": 1,
+  "averageServiceTime": 5,
+  "updatedAt": "2026-11-01T18:53:16.936Z"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SER001",
+    "name": "General Consultation",
+    "duration": 20,
+    "description": "General doctor consultation for common ailments and health concerns",
+    "active": true,
+    "icon": "stethoscope",
+    "color": "#3B82F6"
+  },
+  {
+    "id": "SER002",
+    "name": "Dental Consultation",
+    "duration": 30,
+    "description": "Dental checkup, cleaning, and treatment consultation",
+    "active": true,
+    "icon": "tooth",
+    "color": "#06B6D4"
+  },
+  {
+    "id": "SER003",
+    "name": "Health Checkup",
+    "duration": 45,
+    "description": "Comprehensive full body health checkup and screening",
+    "active": true,
+    "icon": "heart",
+    "color": "#10B981"
+  },
+  {
+    "id": "SER004",
+    "name": "Physiotherapy",
+    "duration": 40,
+    "description": "Physical therapy and rehabilitation sessions",
+    "active": true,
+    "icon": "activity",
+    "color": "#8B5CF6"
+  },
+  {
+    "id": "SER005",
+    "name": "Vaccination",
+    "duration": 15,
+    "description": "Routine vaccinations and immunization services",
+    "active": true,
+    "icon": "shield",
+    "color": "#F59E0B"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "QUEUE-001",
+    "queueNumber": "Q001",
+    "userId": 2,
+    "serviceId": "SER004",
+    "service": "Physiotherapy",
+    "appointmentId": "APT-1009",
+    "status": "In Progress",
+    "joinedAt": "2026-11-01T09:55:00.000Z",
+    "calledAt": "2026-11-01T10:00:00.000Z",
+    "completedAt": null,
+    "date": "2026-11-01"
+  },
+  {
+    "id": "QUEUE-002",
+    "queueNumber": "Q002",
+    "userId": 2,
+    "serviceId": "SER001",
+    "service": "General Consultation",
+    "appointmentId": "APT-1006",
+    "status": "Waiting",
+    "joinedAt": "2026-11-01T09:00:00.000Z",
+    "calledAt": null,
+    "completedAt": null,
+    "date": "2026-11-01"
+  },
+  {
+    "id": "QUEUE-003",
+    "queueNumber": "Q003",
+    "userId": 2,
+    "serviceId": "SER002",
+    "service": "Dental Consultation",
+    "appointmentId": null,
+    "status": "Waiting",
+    "joinedAt": "2026-11-01T09:15:00.000Z",
+    "calledAt": null,
+    "completedAt": null,
+    "date": "2026-11-01"
+  },
+  {
+    "id": "QUEUE-004",
+    "queueNumber": "Q004",
+    "userId": 2,
+    "serviceId": "SER003",
+    "service": "Health Checkup",
+    "appointmentId": "APT-1012",
+    "status": "Waiting",
+    "joinedAt": "2026-11-01T09:30:00.000Z",
+    "calledAt": null,
+    "completedAt": null,
+    "date": "2026-11-01"
+  },
+  {
+    "id": "QUEUE-005",
+    "queueNumber": "Q005",
+    "userId": 2,
+    "serviceId": "SER005",
+    "service": "Vaccination",
+    "appointmentId": null,
+    "status": "Waiting",
+    "joinedAt": "2026-11-01T09:45:00.000Z",
+    "calledAt": null,
+    "completedAt": null,
+    "date": "2026-11-01"
+  }
+]

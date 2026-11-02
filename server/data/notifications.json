@@ -1,0 +1,83 @@
+[
+  {
+    "id": "NOTIF-001",
+    "userId": 2,
+    "title": "Appointment Booked",
+    "message": "Your appointment APT-1001 for General Consultation on Nov 3, 2026 at 09:30 AM has been successfully booked.",
+    "type": "success",
+    "read": false,
+    "createdAt": "2026-10-28T08:00:00.000Z"
+  },
+  {
+    "id": "NOTIF-002",
+    "userId": 2,
+    "title": "Appointment Booked",
+    "message": "Your appointment APT-1002 for Dental Consultation on Nov 5, 2026 at 11:00 AM has been successfully booked.",
+    "type": "success",
+    "read": false,
+    "createdAt": "2026-10-29T09:00:00.000Z"
+  },
+  {
+    "id": "NOTIF-003",
+    "userId": 2,
+    "title": "Appointment Completed",
+    "message": "Your appointment APT-1003 for Health Checkup has been marked as completed. Thank you for visiting us.",
+    "type": "info",
+    "read": true,
+    "createdAt": "2026-10-25T11:00:00.000Z"
+  },
+  {
+    "id": "NOTIF-004",
+    "userId": 2,
+    "title": "Appointment Cancelled",
+    "message": "Your appointment APT-1005 for Vaccination on Oct 18 has been cancelled.",
+    "type": "warning",
+    "read": true,
+    "createdAt": "2026-10-17T10:00:00.000Z"
+  },
+  {
+    "id": "NOTIF-005",
+    "userId": 2,
+    "title": "Queue Update",
+    "message": "You are now 3rd in the queue. Estimated waiting time is 15 minutes.",
+    "type": "info",
+    "read": false,
+    "createdAt": "2026-11-01T09:30:00.000Z"
+  },
+  {
+    "id": "NOTIF-006",
+    "userId": 2,
+    "title": "Appointment In Progress",
+    "message": "Your appointment APT-1009 for Physiotherapy is now In Progress. Please proceed to the consultation room.",
+    "type": "success",
+    "read": false,
+    "createdAt": "2026-11-01T10:00:00.000Z"
+  },
+  {
+    "id": "NOTIF-007",
+    "userId": 2,
+    "title": "Upcoming Appointment Reminder",
+    "message": "Reminder: You have an appointment for General Consultation tomorrow at 09:30 AM.",
+    "type": "info",
+    "read": false,
+    "createdAt": "2026-11-02T08:00:00.000Z"
+  },
+  {
+    "id": "NOTIF-008",
+    "userId": 2,
+    "title": "Queue Joined",
+    "message": "You have successfully joined the walk-in queue. Your queue number is Q002.",
+    "type": "success",
+    "read": true,
+    "createdAt": "2026-11-01T09:00:00.000Z"
+  },
+  {
+    "id": "NOTIF-009",
+    "userId": 2,
+    "title": "Appointment Booked",
+    "message": "Your appointment APT-1013 for Vaccination on Nov 10, 2026 at 08:32 has been successfully booked.",
+    "type": "success",
+    "read": false,
+    "createdAt": "2026-11-01T18:54:45.375Z"
+  }
+]
